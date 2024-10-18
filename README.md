@@ -1,2 +1,1 @@
-# README
-Just stuff for personal website, available: [https://dinosaurlover.github.io](https://dinosaurlover.github.io)
+Just stuff for personal website, available: [https://dinosaurlover3000.github.io](https://dinosaurlover3000.github.io)
