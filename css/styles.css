@@ -1,9 +1,9 @@
 body {
-    background-image: url('../background.png');
-    background-color: #000000;
+    background-image: url('../twoism-blank.png');
+    background-color: #dfe6ba;
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center center;
-    margin: 0;
+    background-position: right center;
+    margin: 1;
     font-family: consolas;
 }
