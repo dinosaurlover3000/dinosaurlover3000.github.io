@@ -3,7 +3,7 @@ body {
     background-color: #dfe6ba;
     background-size: 50%;
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: right 100% bottom 100%;
     margin: 2;
     font-family: consolas;
 }
