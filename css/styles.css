@@ -24,19 +24,6 @@ nav ul li a:hover {
     background-color: #555;
 }
 
-/* Container Styling */
-.container {
-    background-color: #f4f4f4;
-    padding: 20px;
-    margin-top: 20px;
-}
-.container h1 {
-    color: #333;
-}
-.container p {
-    color: #555;
-}
-
 /* Footer Styling */
 footer {
     background-color: #333;
