@@ -48,7 +48,7 @@ footer ul li a:hover {
     text-decoration: underline;
 }
 body {
-    background-image: url('background.png');
+    background-image: url('../background.png');
     background-size: 300px 200px;
     background-repeat: no-repeat;
     background-position: center center;
