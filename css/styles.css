@@ -1,9 +1,9 @@
 body {
     background-image: url('../background.png');
-    background-size: auto;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
     height: 100vh;
-    margin: 0;
+    margin: 1;
     font-family: consolas;
 }
