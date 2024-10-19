@@ -49,7 +49,7 @@ footer ul li a:hover {
 }
 body {
     background-image: url('background.png');
-    background-size: auto;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: center center;
     height: 100vh;
