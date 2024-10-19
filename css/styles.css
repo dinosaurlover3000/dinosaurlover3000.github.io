@@ -7,3 +7,11 @@ body {
     margin: 1;
     font-family: consolas;
 }
+#myTextarea {
+    width: 300px;    
+    height: 150px;  
+    resize: none;    /* Disable resizing */
+    padding: 10px;   
+    font-family: consolas;  
+    font-size: 14px; 
+}
