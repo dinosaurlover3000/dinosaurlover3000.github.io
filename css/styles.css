@@ -1,58 +1,14 @@
 .mainbody {
     font-family: consolas;
 }
-nav {
-    background-color: #333;
-    padding: 10px;
-}
-nav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
-nav ul li {
-    display: inline;
-    margin-right: 10px;
-}
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    padding: 5px 10px;
-    border-radius: 5px;
-}
-nav ul li a:hover {
-    background-color: #555;
-}
-
-/* Footer Styling */
-footer {
-    background-color: #333;
-    padding: 10px;
-    color: #fff;
-    margin-top: 20px;
-}
-footer ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
-footer ul li {
-    display: inline;
-    margin-right: 10px;
-}
-footer ul li a {
-    color: #fff;
-    text-decoration: none;
-}
 footer ul li a:hover {
     text-decoration: underline;
 }
 body {
     background-image: url('../background.png');
-    background-size: 300px 200px;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
     height: 100vh;
     margin: 0;
-    font-family: consolas;
 }
