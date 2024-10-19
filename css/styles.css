@@ -6,7 +6,7 @@ footer ul li a:hover {
 }
 body {
     background-image: url('../background.png');
-    background-size: 80%;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
     height: 100vh;
