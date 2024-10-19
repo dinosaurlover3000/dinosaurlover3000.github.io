@@ -1,13 +1,13 @@
 body {
     background-image: url('../twoism-blank.png');
     background-color: #dfe6ba;
-    background-size: contain;
+    background-size: 70%;
     background-repeat: no-repeat;
     background-position: right center;
     margin: 1;
     font-family: consolas;
 }
-#myTextarea {
+#feedback {
     width: 300px;    
     height: 150px;  
     resize: none;    /* Disable resizing */
