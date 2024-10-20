@@ -11,9 +11,14 @@ body {
 #comments {
     width: 50%;    
     height: 30%;  
-    resize: none;    /* no resizing */
+    resize: none; /* no resizing */
     padding: 10px;   
     font-family: consolas;  
     font-size: 14px; 
-    background:#ffffff url('../john-and-bender.png') no-repeat center scroll; 
+    background-color:#ffffff; 
+    background-image: url('../john-and-bender.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
 }
+
