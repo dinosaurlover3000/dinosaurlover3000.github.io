@@ -9,14 +9,18 @@ body {
     font-family: consolas;
 }
 #comments {
-    width: 50%;    
-    height: 30%;  
+    width: 60%;    
+    height: 50%;  
     resize: none; /* no resizing */
     padding: 10px;   
     font-family: consolas;  
     font-size: 14px; 
-    background-color: #ffffff; 
+    background-color: #ffffff;
+}
+#comments::before {    
+    content: ""; 
     background-image: url('../john-and-bender.png');
+    opacity: 0.7;
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
