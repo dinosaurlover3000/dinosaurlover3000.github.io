@@ -10,13 +10,12 @@ body {
 }
 #comments {
     width: 60%;    
-    height: 50%;  
+    height: 40%;  
     resize: none; /* no resizing */
     padding: 10px;   
     font-family: consolas;  
     font-size: 14px; 
     background-color: #ffffff;  
-    content: ""; 
     background-image: url('../john-and-bender.png');
     opacity: 0.7;
     background-size: 100% 100%;
