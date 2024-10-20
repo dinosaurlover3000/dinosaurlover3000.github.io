@@ -32,4 +32,6 @@ a:hover {
     background-color: yellow;
 }
 /* HYPERLINKS f*/
-
+br {
+    line-height: 0.5;
+}
