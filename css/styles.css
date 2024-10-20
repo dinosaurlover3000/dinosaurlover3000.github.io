@@ -5,7 +5,7 @@ body {
     background-repeat: no-repeat;
     background-position: left 100% bottom 100%;
     background-attachment: fixed; /* fix when scrolling */
-    margin: 2;
+    margin: 1;
     font-family: consolas;
 }
 #comments {
