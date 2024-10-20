@@ -15,10 +15,20 @@ body {
     padding: 10px;   
     font-family: consolas;  
     font-size: 14px; 
-    background-color:#ffffff; 
+    background-color: #ffffff; 
     background-image: url('../john-and-bender.png');
+    background-size: 20%;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: scroll;
 }
+/* HYPERLINKS s*/
+a {
+    text-decoration: none;
+    text-color: #000000;
+}
+a:hover {
+    background-color: yellow;
+}
+/* HYPERLINKS f*/
 
