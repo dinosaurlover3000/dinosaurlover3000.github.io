@@ -14,10 +14,10 @@ body {
     resize: none; /* no resizing */
     padding: 10px;   
     font-family: consolas;  
-    font-size: 14px; 
+    font-size: 16px; 
     background-color: #ffffff;  
     background-image: url('../john-and-bender.png');
-    opacity: 0.7;
+    opacity: 0.75;
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
