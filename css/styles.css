@@ -3,15 +3,17 @@ body {
     background-color: #dfe6ba;
     background-size: 50%;
     background-repeat: no-repeat;
-    background-position: left 100% top 100%;
+    background-position: left 100% bottom 100%;
+    background-attachment: fixed; /* fix when scrolling */
     margin: 2;
     font-family: consolas;
 }
 #comments {
     width: 50%;    
     height: 30%;  
-    resize: none;    /* Disable resizing */
+    resize: none;    /* no resizing */
     padding: 10px;   
     font-family: consolas;  
     font-size: 14px; 
+    background:#ffffff url('../john-and-bender.png') no-repeat center scroll; 
 }
