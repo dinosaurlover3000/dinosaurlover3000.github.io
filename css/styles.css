@@ -37,28 +37,22 @@ br {
 }
 
 /*BLUR EDGES OF HOME PAGE IMAGE s*/
-:root {
-    --faded-offset: 40px; /* Not used in this example */
-    --faded-blur-radius: 40px;
-    --faded-spread-radius: 16px;
-}
-
 #tangiers {
     position: relative;
     display: inline-block;
-    width: 100%;
-    height: 300px; 
+    width: 100%;  
+    height: 300px;
     opacity: 0.80; 
 }
 
-#tangiers:after {
+#tangiers::after {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
-    box-shadow: inset 0 0 var(--faded-blur-radius) var(--faded-spread-radius) rgba(225, 225, 225, 1); /* inset shadow */
+    height: 300px;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0) 60%, rgba(255, 255, 255, 0.7) 100%);
     pointer-events: none; 
 }
 
