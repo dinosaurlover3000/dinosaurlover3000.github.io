@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>queries</title>
+    <title>other-queries</title>
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="icon" type="image/x-icon" href="../favicon.ico">
     <script src="javascript.js"></script>
@@ -39,7 +39,6 @@
 
             </pre>you can send me a message here:</p>
     <br>
-    <hr width="100%" align="left" size="1" noshade="">
     <footer>
         <form>
             <textarea id="other-queries" name="other-queries" rows="10" cols="28" placeholder="..."></textarea>
