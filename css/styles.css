@@ -8,6 +8,9 @@ body {
     margin: 1;
     font-family: consolas;
 }
+#current-tab {
+    background-color: red;
+}
 #comments {
     width: 65%;    
     height: 40%;  
