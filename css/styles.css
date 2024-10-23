@@ -9,7 +9,9 @@ body {
     font-family: consolas;
 }
 #current-tab {
-    background-color: red;
+    border: 1px;
+    border-style: solid;
+    border-color: red;
 }
 #comments {
     width: 65%;    
