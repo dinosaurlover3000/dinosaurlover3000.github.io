@@ -28,6 +28,15 @@ body {
     background-position: center;
     background-attachment: scroll;
 }
+#queries {
+    width: 65%;    
+    height: 40%;  
+    resize: none; /* no resizing */
+    padding: 10px;   
+    font-family: consolas;  
+    font-size: 16px; 
+    background-color: #ffffff;  
+}
 /* HYPERLINKS s*/
 a {
     text-decoration: none;
