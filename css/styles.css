@@ -16,6 +16,7 @@ body {
 #back-header {
     color: red;
     font-weight: bold;
+    font-size: 14px;
 }
 #comments {
     width: 65%;    
